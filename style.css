@@ -1,0 +1,31 @@
+z
+body {
+    background-color: #cce6f4;
+}
+.imagen{
+    border-radius: 20px;
+    width: 200px;
+    height: auto;
+}
+.container {
+    width: 200px;
+    height: auto;
+    margin: auto;
+    background-color:white;
+    border-radius: 20px;
+    padding: 15px;
+}
+
+.one{
+    font-family: 'Kay Pho Du', serif;
+    text-align: justify;
+    font-size: 15px;
+}
+.two{
+    color: #adb5bd;
+    text-align: center;
+    font-size: smaller;
+}
+.attribution{
+    font-size: smaller;
+}
